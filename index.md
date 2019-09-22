@@ -11,19 +11,26 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Mein erstes Projekt zum Thema Websiteerstellung
+Das wird meine erste Git-Hub Website
 
-- Bulleted
-- List
+## Ablauf des ersten Projekts
+Zuerst muss man HTML Basics lernen, um sich in dieser Materie weiter zu entwickeln
 
-1. Numbered
-2. List
+### Folgende Kurse sind zu erledigen
+1. HTML Basics: Alle grundlegenden Befehle lernen und ausprobieren
+2. CSS: Das ist die Anwendung, mit der Farben und Designs einer Website programmiert werden
+3. Java und Javascript
+4. Python
+5. In Planung
 
-**Bold** and _Italic_ and `Code` text
+- Je nach verfügbarer Zeit sollte ich bis Ende 2019 mit HTML Basics sein. 
+- Eine Liste mit Hilfsmittel wird noch erstellt
+- Webspace für meine erste Seite mieten
 
-[Link](url) and ![Image](src)
+**Folgenden Anbieter möchte ich nehmen**  und _Schräg darstellen_ mit Wordpress und ```Code``` text einsetzen
+
+[link](https://www.strato.de) and ![Image](https://www.bilder-upload.eu/bild-218b21-1569156145.jpg.html)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
